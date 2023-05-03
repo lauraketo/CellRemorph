@@ -1,6 +1,6 @@
 # The CellRemorph Toolkit
 
-A Blender-based toolkit for transforming astrocyte morphologies from polygonal surface meshes into adjustable surface point clouds and vice versa, precisely selecting nanoprocesses, and slicing morphologies into segments with equal surface areas or volumes. 
+A Blender-based toolkit for transforming cell morphologies from polygonal surface meshes into adjustable surface point clouds and vice versa, precisely selecting nanoprocesses, and slicing morphologies into segments with equal surface areas or volumes. 
 
  
 
@@ -36,7 +36,7 @@ Slicing surface mesh structures along any of the three axes to produce a desired
 
 Please, cite our article when using the toolkit: 
 
-Laura Keto, Tiina Manninen. CellRemorph: A toolkit for transforming, selecting, and slicing 3D cell structures on the road to morphologically detailed astrocyte simulations. Neuroinformatics. 2023. 
+Laura Keto, Tiina Manninen. CellRemorph: A toolkit for transforming, selecting, and slicing 3D cell structures on the road to morphologically detailed astrocyte simulations. Neuroinformatics. 2023. DOI: 10.1007/s12021-023-09627-5
 
  
 
