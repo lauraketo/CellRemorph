@@ -36,7 +36,7 @@ Slicing surface mesh structures along any of the three axes to produce a desired
 
 Please, cite our article when using the toolkit: 
 
-Laura Keto, Tiina Manninen. CellRemorph: A toolkit for transforming, selecting, and slicing 3D cell structures on the road to morphologically detailed astrocyte simulations. Neuroinformatics. 2023. DOI: 10.1007/s12021-023-09627-5
+Laura Keto, Tiina Manninen. CellRemorph: A toolkit for transforming, selecting, and slicing 3D cell structures on the road to morphologically detailed astrocyte simulations. Neuroinformatics. 2023. https://doi.org/10.1007/s12021-023-09627-5
 
  
 
